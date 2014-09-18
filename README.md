@@ -11,4 +11,4 @@ Set up a basic portfolio to present the projects I'll be creating for CSCI E-15 
 Please note that I'm not using an actual photo of myself for privacy reasons, as approved in this Piazza [thread](https://piazza.com/class/hykay018bam4zp?cid=84).
 
 ##Outside Code
-None used
+Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)
