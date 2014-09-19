@@ -2,7 +2,7 @@
 #P1: System Setup/Portfolio
 
 ##P1 URL
-[p1.cpalmit.me](p1.cpalmit.me)
+[p1.cpalmit.me](http://p1.cpalmit.me)
 
 ##Description
 Set up a basic portfolio to present the projects I'll be creating for CSCI E-15 and get used to version control workflow. 
